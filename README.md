@@ -11,3 +11,5 @@ All the data I used for this project is from the National Transportation Safety 
 These Graphs display the safest aircraft models with the lowest accident history. One displays lowest accidents due to visibility and weather, and the other is a more general accident history. 
 # Conclusion
 Finding the perfect aircraft is not an easy task, however I have narrowed it down to the safest ones. Factoring in weather and overall accidental history any of the aircraft shown would be a perfect addition to growing business looking to expand into the aviation industry
+# Citation
+https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses
